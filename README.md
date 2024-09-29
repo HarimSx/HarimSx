@@ -5,7 +5,7 @@
   Welcome I'm Harim Solis !
   
   </h3>
-  <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+  <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 24 y/o Systems Engineer (B.S.) and Full Stack Dev, currently working remotely at Alba Studios. Experienced in building web/mobile apps, front-end and back-end dev. Skilled in cloud infra, DB management, and Git version control. Passionate about scalable, efficient solutions, always learning to stay up-to-date with the latest tech. 
 
