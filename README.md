@@ -34,9 +34,3 @@
 <img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="25" height="25" />
 </p>
 
-![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
-
-------
-Credit: [thesaravanakumar](https://github.com/thesaravanakumar)
-
-Last Edited on: 27/10/2021
